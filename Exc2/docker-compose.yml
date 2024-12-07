@@ -1,0 +1,6 @@
+name: 'sprint-6'
+services:
+  app:
+    image: shestera/scaletestapp
+    ports:
+      - "8080:8080"
